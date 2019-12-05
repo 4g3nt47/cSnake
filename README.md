@@ -1,0 +1,1 @@
+A snake game in C using the ncurses library. It features support for dynamic terminal window sizes.
